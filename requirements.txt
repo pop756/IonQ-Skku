@@ -1,0 +1,3 @@
+qiskit
+qiskit_algorithms
+matplotlib
